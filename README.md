@@ -5,9 +5,9 @@ Shader Calibration Scene for Unity 2019.4 URP
 Old Shader Calibration Scene is deprecated, so I converted them for 2019.4 URP version.
 
 修正点
-１．マテリアルをURPのものへ更新
-２．ポストプロセスをURPのボリュームタイプへ変更
-３．サンプルで提供されるマテリアルをShaderBallへ適用してプレハブを追加
+1. マテリアルをURPのものへ更新
+2. ポストプロセスをURPのボリュームタイプへ変更
+3. サンプルで提供されるマテリアルをShaderBallへ適用してプレハブを追加
 
 Update list
 1. Updating materials for URP
