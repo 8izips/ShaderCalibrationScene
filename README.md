@@ -1,7 +1,7 @@
 # ShaderCalibrationScene
 Shader Calibration Scene for Unity 2019.4 URP
 
-昔Unityで提供されていたアセットストアから排除になったので2019.4のURP環境で使えるように更新したものです
+Unityで提供されていたのは古くてアセットストアから削除されたので2019.4のURP環境で使えるように更新しました。
 
 Old Shader Calibration Scene is deprecated, so I converted them for 2019.4 URP version.
 
